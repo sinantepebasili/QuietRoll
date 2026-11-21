@@ -38,7 +38,7 @@ QuietRoll never deletes anything without the iOS confirmation dialog. Deleted ph
 
 ### Privacy
 
-QuietRoll works on your iPhone. Your photos are never uploaded. Read the [Privacy Policy](privacy.html#en).
+QuietRoll works on your iPhone. Your photos are never uploaded. Read the [Privacy Policy](privacy.md#en).
 
 <a id="de"></a>
 
@@ -68,7 +68,7 @@ QuietRoll löscht nie etwas ohne den Bestätigungsdialog von iOS. Gelöschte Fot
 
 ### Datenschutz
 
-QuietRoll arbeitet auf deinem iPhone. Deine Fotos werden nie hochgeladen. Lies die [Datenschutzerklärung](privacy.html#de).
+QuietRoll arbeitet auf deinem iPhone. Deine Fotos werden nie hochgeladen. Lies die [Datenschutzerklärung](privacy.md#de).
 
 <a id="nb"></a>
 
@@ -98,7 +98,7 @@ QuietRoll sletter aldri noe uten bekreftelsesvinduet i iOS. Slettede bilder og v
 
 ### Personvern
 
-QuietRoll fungerer på iPhonen din. Bildene dine blir aldri lastet opp. Les [personvernerklæringen](privacy.html#nb).
+QuietRoll fungerer på iPhonen din. Bildene dine blir aldri lastet opp. Les [personvernerklæringen](privacy.md#nb).
 
 <a id="sv"></a>
 
@@ -128,7 +128,7 @@ QuietRoll raderar aldrig något utan bekräftelsedialogen i iOS. Raderade bilder
 
 ### Integritet
 
-QuietRoll fungerar på din iPhone. Dina bilder laddas aldrig upp. Läs [integritetspolicyn](privacy.html#sv).
+QuietRoll fungerar på din iPhone. Dina bilder laddas aldrig upp. Läs [integritetspolicyn](privacy.md#sv).
 
 <a id="da"></a>
 
@@ -158,7 +158,7 @@ QuietRoll sletter aldrig noget uden bekræftelsesvinduet i iOS. Slettede fotos o
 
 ### Privatliv
 
-QuietRoll fungerer på din iPhone. Dine fotos bliver aldrig uploadet. Læs [privatlivspolitikken](privacy.html#da).
+QuietRoll fungerer på din iPhone. Dine fotos bliver aldrig uploadet. Læs [privatlivspolitikken](privacy.md#da).
 
 <a id="tr"></a>
 
@@ -188,4 +188,4 @@ QuietRoll, iOS'un onay penceresi olmadan hiçbir şeyi silmez. Silinen fotoğraf
 
 ### Gizlilik
 
-QuietRoll iPhone'unda çalışır. Fotoğrafların hiçbir zaman yüklenmez. [Gizlilik Politikası](privacy.html#tr)'nı oku.
+QuietRoll iPhone'unda çalışır. Fotoğrafların hiçbir zaman yüklenmez. [Gizlilik Politikası](privacy.md#tr)'nı oku.
